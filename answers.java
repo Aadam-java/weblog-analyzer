@@ -21,5 +21,6 @@
         }
     }
 }
- *
+ *17. it will provide the earlier hour 
+ *18. the value returned is 17
  */
